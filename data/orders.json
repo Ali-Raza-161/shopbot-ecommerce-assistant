@@ -1,0 +1,88 @@
+[
+  {
+    "id": "ORD-1001",
+    "status": "Delivered",
+    "customer": "Ayesha Khan",
+    "items": [
+      {
+        "productId": "P01",
+        "name": "AirFlex Running Sneakers",
+        "qty": 1,
+        "price": 7499
+      }
+    ],
+    "total": 7499,
+    "eta": "Delivered on 20 Oct 2026",
+    "note": "Delivered to Lahore. Thank you for shopping with ShopBot."
+  },
+  {
+    "id": "ORD-1002",
+    "status": "Shipped",
+    "customer": "Bilal Ahmed",
+    "items": [
+      {
+        "productId": "P11",
+        "name": "SoundPods Wireless Earbuds",
+        "qty": 1,
+        "price": 5999
+      },
+      {
+        "productId": "P14",
+        "name": "VoltPro 20000mAh Power Bank",
+        "qty": 1,
+        "price": 4999
+      }
+    ],
+    "total": 10998,
+    "eta": "Expected delivery in 2-3 days",
+    "note": "Your parcel is on its way via courier."
+  },
+  {
+    "id": "ORD-1003",
+    "status": "Processing",
+    "customer": "Fatima Noor",
+    "items": [
+      {
+        "productId": "P06",
+        "name": "Women's Lawn Suit (3-Piece)",
+        "qty": 1,
+        "price": 6499
+      }
+    ],
+    "total": 6499,
+    "eta": "Expected delivery in 4-5 days",
+    "note": "Your order is being packed at our warehouse."
+  },
+  {
+    "id": "ORD-1004",
+    "status": "Out for delivery",
+    "customer": "Usman Tariq",
+    "items": [
+      {
+        "productId": "P24",
+        "name": "Kashmir Willow Cricket Bat",
+        "qty": 1,
+        "price": 6999
+      }
+    ],
+    "total": 6999,
+    "eta": "Expected today",
+    "note": "Your rider is on the way. Please keep your phone nearby."
+  },
+  {
+    "id": "ORD-1005",
+    "status": "Delivered",
+    "customer": "Zainab Ali",
+    "items": [
+      {
+        "productId": "P20",
+        "name": "Vitamin C Face Serum",
+        "qty": 2,
+        "price": 2799
+      }
+    ],
+    "total": 5598,
+    "eta": "Delivered on 18 Oct 2026",
+    "note": "Delivered to Karachi."
+  }
+]

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ShopBot — E-commerce Assistant</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="header">
+  <div class="brand">🛍️ ShopBot</div>
+  <p class="tagline">Shop smarter — ask, filter, and check orders in plain words.</p>
+  <div class="cart-badge">🛒 Cart: <strong id="cartCount">0</strong></div>
+</header>
+
+<main class="layout">
+  <section class="catalog">
+    <div class="controls">
+      <input id="searchInput" type="search" placeholder="Search products… e.g. earbuds, kurta, cricket" aria-label="Search products">
+      <button id="clearFilters" class="btn ghost">Show all</button>
+    </div>
+    <div id="categoryChips" class="chips" aria-label="Categories"></div>
+    <div class="grid-head">
+      <h2 id="gridTitle">All products</h2>
+      <span id="resultCount"></span>
+    </div>
+    <div id="grid" class="grid"></div>
+    <aside class="cart-panel">
+      <h2>Your cart</h2>
+      <div id="cartSummary"></div>
+      <p class="muted small">Demo only: no payment is taken and no order is really placed. Ask ShopBot “checkout” to see the demo flow.</p>
+    </aside>
+  </section>
+
+  <section class="chat" aria-label="ShopBot chat">
+    <div class="chat-head">
+      <div><strong>ShopBot Assistant</strong><span class="online">● Online · replies instantly · no account needed</span></div>
+      <span class="demo-pill">Local demo · mock data</span>
+    </div>
+    <div id="messages" class="messages"></div>
+    <div class="suggestions">
+      <button class="suggestion" data-q="shoes under 5000">👟 Shoes under 5000</button>
+      <button class="suggestion" data-q="show electronics">🎧 Show electronics</button>
+      <button class="suggestion" data-q="recommend something under 3000">💡 Under 3000</button>
+      <button class="suggestion" data-q="order status ORD-1002">📦 Order status ORD-1002</button>
+      <button class="suggestion" data-q="show cart">🛒 Show cart</button>
+    </div>
+    <div class="composer">
+      <input id="chatInput" type="text" placeholder="Ask ShopBot… e.g. shoes under 5000" aria-label="Message ShopBot" autocomplete="off">
+      <button id="sendBtn" class="btn">Send</button>
+    </div>
+    <p class="muted small center">Try: “lawn suit”, “cricket bat”, “cheaper ones”, “add earbuds to cart”, “delivery info”.</p>
+  </section>
+</main>
+
+<footer class="footer">ShopBot is a local, rule-based demo with mock products and mock orders. Prices are in PKR. No real store, payment, or delivery is involved.</footer>
+<script src="app.js"></script>
+</body>
+</html>

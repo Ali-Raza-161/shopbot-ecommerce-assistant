@@ -1,0 +1,242 @@
+[
+  {
+    "id": "P01",
+    "name": "AirFlex Running Sneakers",
+    "category": "Footwear",
+    "price": 7499,
+    "rating": 4.6,
+    "inStock": true,
+    "tag": "Bestseller",
+    "description": "Lightweight breathable running shoes with cushioned soles for daily walks and jogging."
+  },
+  {
+    "id": "P02",
+    "name": "Classic Leather Loafers",
+    "category": "Footwear",
+    "price": 12999,
+    "rating": 4.8,
+    "inStock": true,
+    "tag": "Premium",
+    "description": "Hand-finished genuine leather loafers, perfect for office wear and formal occasions."
+  },
+  {
+    "id": "P03",
+    "name": "Everyday Canvas Shoes",
+    "category": "Footwear",
+    "price": 4499,
+    "rating": 4.3,
+    "inStock": true,
+    "tag": "Budget pick",
+    "description": "Comfortable canvas sneakers in a clean everyday style that goes with jeans and kurtas."
+  },
+  {
+    "id": "P04",
+    "name": "Formal Oxford Shoes",
+    "category": "Footwear",
+    "price": 14999,
+    "rating": 4.7,
+    "inStock": true,
+    "tag": "Premium",
+    "description": "Polished black Oxford shoes for weddings, interviews and formal events."
+  },
+  {
+    "id": "P05",
+    "name": "Men's Cotton Kurta",
+    "category": "Clothing",
+    "price": 3999,
+    "rating": 4.5,
+    "inStock": true,
+    "tag": "Bestseller",
+    "description": "Soft breathable cotton kurta with a relaxed fit, ideal for summer and festive wear."
+  },
+  {
+    "id": "P06",
+    "name": "Women's Lawn Suit (3-Piece)",
+    "category": "Clothing",
+    "price": 6499,
+    "rating": 4.6,
+    "inStock": true,
+    "tag": "New",
+    "description": "Printed 3-piece lawn suit with dupatta and dyed trouser, made for everyday comfort."
+  },
+  {
+    "id": "P07",
+    "name": "Slim-Fit Denim Jeans",
+    "category": "Clothing",
+    "price": 4999,
+    "rating": 4.4,
+    "inStock": true,
+    "tag": "",
+    "description": "Stretch denim jeans with a modern slim fit and durable stitching."
+  },
+  {
+    "id": "P08",
+    "name": "Fleece Hoodie",
+    "category": "Clothing",
+    "price": 3499,
+    "rating": 4.5,
+    "inStock": true,
+    "tag": "Winter pick",
+    "description": "Warm fleece hoodie with kangaroo pocket, great for winter evenings in Lahore and Islamabad."
+  },
+  {
+    "id": "P09",
+    "name": "Cotton Polo T-Shirt",
+    "category": "Clothing",
+    "price": 2499,
+    "rating": 4.2,
+    "inStock": true,
+    "tag": "Budget pick",
+    "description": "Classic cotton polo t-shirt, breathable and easy to wash."
+  },
+  {
+    "id": "P10",
+    "name": "Wool Winter Shawl",
+    "category": "Clothing",
+    "price": 2999,
+    "rating": 4.4,
+    "inStock": false,
+    "tag": "",
+    "description": "Soft warm wool shawl in a neutral colour. Currently out of stock — ask for similar winter items."
+  },
+  {
+    "id": "P11",
+    "name": "SoundPods Wireless Earbuds",
+    "category": "Electronics",
+    "price": 5999,
+    "rating": 4.5,
+    "inStock": true,
+    "tag": "Bestseller",
+    "description": "Wireless earbuds with charging case, clear sound and up to 24 hours total playback."
+  },
+  {
+    "id": "P12",
+    "name": "BoomBox Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 7999,
+    "rating": 4.6,
+    "inStock": true,
+    "tag": "",
+    "description": "Portable Bluetooth speaker with deep bass, waterproof design and 18-hour battery."
+  },
+  {
+    "id": "P13",
+    "name": "FitTrack Smartwatch",
+    "category": "Electronics",
+    "price": 11999,
+    "rating": 4.4,
+    "inStock": true,
+    "tag": "New",
+    "description": "Smartwatch with heart-rate tracking, step counter, notifications and 7-day battery life."
+  },
+  {
+    "id": "P14",
+    "name": "VoltPro 20000mAh Power Bank",
+    "category": "Electronics",
+    "price": 4999,
+    "rating": 4.5,
+    "inStock": true,
+    "tag": "Budget pick",
+    "description": "Fast-charging 20000mAh power bank with two USB ports for phones and earbuds."
+  },
+  {
+    "id": "P15",
+    "name": "Urban Laptop Backpack",
+    "category": "Accessories",
+    "price": 5499,
+    "rating": 4.6,
+    "inStock": true,
+    "tag": "",
+    "description": "Water-resistant 15.6-inch laptop backpack with padded straps and multiple pockets."
+  },
+  {
+    "id": "P16",
+    "name": "Ceramic Dinner Set (24 pcs)",
+    "category": "Home & Kitchen",
+    "price": 15999,
+    "rating": 4.7,
+    "inStock": true,
+    "tag": "Premium",
+    "description": "Elegant 24-piece ceramic dinner set for 6 people, dishwasher safe."
+  },
+  {
+    "id": "P17",
+    "name": "Non-Stick Cookware Set",
+    "category": "Home & Kitchen",
+    "price": 13999,
+    "rating": 4.6,
+    "inStock": true,
+    "tag": "",
+    "description": "5-piece non-stick cookware set with glass lids, suitable for daily Pakistani cooking."
+  },
+  {
+    "id": "P18",
+    "name": "Glow LED Table Lamp",
+    "category": "Home & Kitchen",
+    "price": 3499,
+    "rating": 4.3,
+    "inStock": true,
+    "tag": "",
+    "description": "Adjustable LED desk lamp with 3 brightness levels and USB charging."
+  },
+  {
+    "id": "P19",
+    "name": "Cotton Double Bedsheet Set",
+    "category": "Home & Kitchen",
+    "price": 4499,
+    "rating": 4.4,
+    "inStock": true,
+    "tag": "",
+    "description": "Soft cotton double bedsheet with 2 pillow covers, fade-resistant print."
+  },
+  {
+    "id": "P20",
+    "name": "Vitamin C Face Serum",
+    "category": "Beauty",
+    "price": 2799,
+    "rating": 4.5,
+    "inStock": true,
+    "tag": "Bestseller",
+    "description": "Brightening vitamin C serum for daily skincare, suitable for most skin types."
+  },
+  {
+    "id": "P21",
+    "name": "Matte Lipstick Set (4 pcs)",
+    "category": "Beauty",
+    "price": 1999,
+    "rating": 4.3,
+    "inStock": true,
+    "tag": "Budget pick",
+    "description": "Long-lasting matte lipsticks in 4 everyday shades."
+  },
+  {
+    "id": "P22",
+    "name": "Adjustable Dumbbell Pair (20kg)",
+    "category": "Sports",
+    "price": 8999,
+    "rating": 4.5,
+    "inStock": true,
+    "tag": "",
+    "description": "Adjustable dumbbell pair for home workouts, total 20kg with easy weight plates."
+  },
+  {
+    "id": "P23",
+    "name": "ProGrip Yoga Mat",
+    "category": "Sports",
+    "price": 2499,
+    "rating": 4.4,
+    "inStock": true,
+    "tag": "Budget pick",
+    "description": "Non-slip 6mm yoga mat with carry strap, easy to roll and clean."
+  },
+  {
+    "id": "P24",
+    "name": "Kashmir Willow Cricket Bat",
+    "category": "Sports",
+    "price": 6999,
+    "rating": 4.7,
+    "inStock": true,
+    "tag": "Bestseller",
+    "description": "Full-size Kashmir willow cricket bat with grip and cover, for tennis and hard-ball practice."
+  }
+]
